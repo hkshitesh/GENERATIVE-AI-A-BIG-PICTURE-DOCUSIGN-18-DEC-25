@@ -6,7 +6,7 @@
 
 https://colab.research.google.com/drive/1IPBvDtafvIFXh3L9-g-YCxBIjE-Rif5C?usp=sharing
 
-## Project Work 1: Developing a MCP Server for HR and Employee
+## Project Work 1: Build Your First MCP Server: Leave Management
 
 https://github.com/hkshitesh/MCP-SERVER-DS
 
