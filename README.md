@@ -6,6 +6,10 @@
 
 https://colab.research.google.com/drive/1IPBvDtafvIFXh3L9-g-YCxBIjE-Rif5C?usp=sharing
 
+## Project Work 1: Developing a MCP Server for HR and Employee
+
+https://github.com/hkshitesh/MCP-SERVER-DS
+
 ## Lab Exercise 1: Zero Shot, Few Shot and CoT
 
 https://colab.research.google.com/drive/1_90WRAl5CEpgJv8txrpmrnHGvwuv8s1E?usp=sharing
