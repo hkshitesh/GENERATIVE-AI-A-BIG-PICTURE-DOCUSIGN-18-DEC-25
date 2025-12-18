@@ -13,7 +13,3 @@ https://github.com/hkshitesh/MCP-SERVER-DS
 ## Project Work 2: Develop a DocuSign Agreement AI Agent
 
 https://colab.research.google.com/drive/1GQWnTbslwqAct15jM5NNvA1pFFfFiuzi?usp=sharing
-
-## Lab Exercise 2: Zero Shot, Few Shot and CoT
-
-https://colab.research.google.com/drive/1_90WRAl5CEpgJv8txrpmrnHGvwuv8s1E?usp=sharing
