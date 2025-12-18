@@ -10,6 +10,10 @@ https://colab.research.google.com/drive/1IPBvDtafvIFXh3L9-g-YCxBIjE-Rif5C?usp=sh
 
 https://github.com/hkshitesh/MCP-SERVER-DS
 
+## Project Work 2: Develop a DocuSign Agreement AI Agent
+
+https://github.com/hkshitesh/GENERATIVE-AI-A-BIG-PICTURE-DOCUSIGN-18-DEC-25/tree/main/DAY-1/PROJECT%20WORK/AI-AGENT
+
 ## Lab Exercise 2: Zero Shot, Few Shot and CoT
 
 https://colab.research.google.com/drive/1_90WRAl5CEpgJv8txrpmrnHGvwuv8s1E?usp=sharing
