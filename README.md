@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1IPBvDtafvIFXh3L9-g-YCxBIjE-Rif5C?usp=sh
 
 ## Project Work 1: Build Your First MCP Server: Leave Management
 
-https://github.com/hkshitesh/MCP-SERVER-DS
+[https://github.com/hkshitesh/MCP-SERVER-DS](https://github.com/hkshitesh/GENERATIVE-AI-A-BIG-PICTURE-DOCUSIGN-18-DEC-25/tree/main/DAY-1/PROJECT%20WORK/MCP-SERVER-DS)
 
 ## Lab Exercise 2: Zero Shot, Few Shot and CoT
 
